@@ -1,0 +1,33 @@
+cors:
+  originPatterns: http//localhost8080,http//localhost3000,https://well.com.br
+security:
+  jwt:
+    token:
+      secret-key: 53cr37
+      expire-length: 3600000
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/rest_spring_boot_well?useTimezone=True&serveTimezone=UTC
+    username: root
+    password: Wellsql28.
+  jpa:
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+    show-sql: false
+  servlet:
+    multipart:
+      enabled: true
+      file-size-threshold: 2KB
+      max-file-size: 200MB
+      max-request-size: 215MB
+springdoc: 
+  pathsToMatch: 
+    - /auth/**
+    - /api/**/v1/**
+  swagger-ui:
+    use-root-path: true
+    

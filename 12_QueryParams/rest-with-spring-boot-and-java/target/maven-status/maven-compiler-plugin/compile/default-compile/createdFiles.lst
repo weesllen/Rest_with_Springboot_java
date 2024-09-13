@@ -1,0 +1,15 @@
+com\well\demo\config\WebConfig.class
+com\well\demo\repositories\PersonRepository.class
+com\well\demo\data\vo\v1\PersonVO.class
+com\well\demo\serialization\converter\YamlJackson2HttpMesageConverter.class
+com\well\demo\Startup.class
+com\well\demo\exceptions\ExceptionsResponse.class
+com\well\demo\exceptions\ResourceNotFoundException.class
+com\well\demo\util\MediaType.class
+com\well\demo\model\Person.class
+com\well\demo\controllers\PersonController.class
+com\well\demo\config\OpenApiConfig.class
+com\well\demo\services\PersonServices.class
+com\well\demo\exceptions\CustomizerResponseEntityExceptionHandler.class
+com\well\demo\exceptions\RequiredObjectisNullException.class
+com\well\demo\mapper\PersonMapper.class

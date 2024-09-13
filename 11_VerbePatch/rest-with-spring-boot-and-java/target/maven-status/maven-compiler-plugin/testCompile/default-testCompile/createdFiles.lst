@@ -1,0 +1,9 @@
+com\well\demo\configs\TestsConfig.class
+com\well\demo\integrationtests\testcontainers\AbstractIntegrationTest.class
+com\well\demo\integrationtests\controller\withJson\PersonControllerJsonTest.class
+com\well\demo\integrationtests\testcontainers\AbstractIntegrationTest$Initializer.class
+com\well\demo\integrationtests\swagger\SwaggerIntegrationTest.class
+com\well\demo\integrationtests\vo\PersonVO.class
+com\well\demo\unitters\mapper\mocks\MockPerson.class
+com\well\demo\unittests\mapper\DozerConverterTest.class
+com\well\demo\unittestes\mockito\service\PersonServicesTest.class

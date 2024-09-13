@@ -1,0 +1,15 @@
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\config\OpenApiConfig.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\config\WebConfig.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\controllers\PersonController.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\data\vo\v1\PersonVO.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\exceptions\CustomizerResponseEntityExceptionHandler.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\exceptions\ExceptionsResponse.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\exceptions\RequiredObjectisNullException.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\exceptions\ResourceNotFoundException.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\mapper\PersonMapper.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\model\Person.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\repositories\PersonRepository.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\serialization\converter\YamlJackson2HttpMesageConverter.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\services\PersonServices.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\Startup.java
+C:\Users\wesll\OneDrive\Área de Trabalho\rest-with-spring-boot-and-java\16-configurateCrossOrigin\rest-with-spring-boot-and-java\src\main\java\com\well\demo\util\MediaType.java
